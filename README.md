@@ -134,4 +134,4 @@ After running the `grill` command, a dark\-themed HTML report automatically laun
 
 The report is optimized for direct screenshot sharing on social platforms\.
 
-> （注：部分内容可能由 AI 生成）
+
