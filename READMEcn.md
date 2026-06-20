@@ -118,6 +118,4 @@ self.client = instructor.from_openai(
 
 ---
 
-## 📄 开源协议
 
-MIT License — 自由使用、修改、分发。
